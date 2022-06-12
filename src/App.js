@@ -3,7 +3,7 @@ import Characters from './components/Characters';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Header />
       <main>
         <Characters />
